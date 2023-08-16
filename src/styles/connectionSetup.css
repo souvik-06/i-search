@@ -1,0 +1,76 @@
+/* styles.css */
+
+.container {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-container {
+    margin: 50px;
+  }
+  
+  .form-title {
+    text-align: center;
+  }
+  
+  .separator {
+    border-top: 4px solid #2d302d;
+  }
+  
+  .label-container {
+    display: inline-flex;
+    vertical-align: top;
+    margin-right: 20px;
+  }
+  
+  .form-group-radio {
+    display: inline-flex;
+    vertical-align: top;
+    margin-right: 20px;
+  }
+  
+  .form-group-text {
+    display: inline-grid;
+    margin-top: 20px;
+  }
+  
+  .input-label {
+    margin-right: 20px;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 2px;
+    margin-bottom: 20px;
+  }
+  
+  .input-label-radio {
+    margin-right: 20px;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .input-radio {
+    width: 20px;
+    height: 20px;
+    margin-right: 2px;
+  }
+  
+  .input-field {
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+  }
+  
+  .button-group {
+    margin-top: 50px;
+  }
+  
+  .button {
+    width: 120px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .title{
+    margin: 20px;
+  }
+  
